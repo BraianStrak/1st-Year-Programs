@@ -1,0 +1,14 @@
+﻿  Source.c
+c:\users\braian\source\repos\practicals\week9\week8and9\source.c(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\braian\source\repos\practicals\week9\week8and9\source.c(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\braian\source\repos\practicals\week9\week8and9\source.c(65): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\braian\source\repos\practicals\week9\week8and9\source.c(157): warning C4020: 'GradeFromRawMarks': too many actual parameters
+c:\users\braian\source\repos\practicals\week9\week8and9\source.c(160): warning C4098: 'DisplayAllRawMarks': 'void' function returning a value
+c:\users\braian\source\repos\practicals\week9\week8and9\source.c(167): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\braian\source\repos\practicals\week9\week8and9\source.c(168): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+  week8and9.vcxproj -> C:\Users\Braian\source\repos\Practicals\week9\Debug\week8and9.exe
